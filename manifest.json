@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "1 倍速警察",
+  "version": "1.0",
+  "description": "看動畫就應該用 1 倍速觀看。",
+  "content_scripts": [
+    {
+      "matches": ["https://ani.gamer.com.tw/*"],
+      "all_frames": true,
+      "run_at": "document_start",
+      "js": ["content.js"]
+    }
+  ]
+}

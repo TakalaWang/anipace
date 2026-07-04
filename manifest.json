@@ -3,6 +3,7 @@
   "name": "1 倍速警察",
   "version": "1.0",
   "description": "看動畫就應該用 1 倍速觀看。",
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
   "content_scripts": [
     {
       "matches": ["https://ani.gamer.com.tw/*"],

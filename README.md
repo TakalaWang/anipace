@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="icon128.png" width="96" alt="AniPace">
+  <img src="store-screenshot.png" width="640" alt="AniPace">
 </p>
-
-<h1 align="center">AniPace・1 倍速警察</h1>
-
-<p align="center">看動畫就應該用 1 倍速觀看。</p>
 
 ---
 

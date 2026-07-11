@@ -10,15 +10,15 @@
 
 ---
 
-在 [動畫瘋](https://ani.gamer.com.tw)(`ani.gamer.com.tw`)上,把播放速度強制維持在 1 倍速。
+在 [動畫瘋](https://ani.gamer.com.tw) 上,把播放速度強制維持在 1 倍速。
 
 ## 安裝
 
-### Chrome Web Store(推薦)
+### Chrome Web Store
 
-[從 Chrome Web Store 安裝](https://chromewebstore.google.com/detail/anipace/endobggedcamcjbkpncaigfahfkbhpga)(審核通過後生效)。
+[從 Chrome Web Store 安裝](https://chromewebstore.google.com/detail/anipace/endobggedcamcjbkpncaigfahfkbhpga)。
 
-### 開發者模式(手動載入)
+### 開發者模式
 
 1. 下載 / `git clone` 這個 repo
 2. Chrome 開 `chrome://extensions`
